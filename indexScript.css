@@ -1,0 +1,40 @@
+header {
+    background-color: yellow;
+    padding: 30px;
+    text-align: center;
+    font-size: 60px;
+    font-family: fantasy;
+    color: black;
+  }
+
+  section {
+    display: -webkit-flex;
+    display: flex;
+  }
+
+  nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: yellow;
+    padding: 20px;
+  }
+
+  nav ul {
+    list-style-type: none;
+    padding: 100;
+  }
+
+  article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: black;
+    padding: 500px;
+  }
+
+  li{
+      max-width: 600px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+  }
