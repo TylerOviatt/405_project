@@ -1,0 +1,51 @@
+
+body{
+    background-color: black;
+}
+
+header {
+    background-color: darkred;
+    padding: 30px;
+    text-align: center;
+    font-size: 60px;
+    font-family: fantasy;
+    color: black;
+  }
+
+  section {
+    display: -webkit-flex;
+    display: flex;
+    background-color: black;
+  }
+
+
+  article {
+
+    background-color: black;
+    padding: 300px;
+    padding-top: 30px;
+    padding-left: 100px;
+    color: white;
+    width: 500px;
+    text-align: justify;
+
+  }
+
+  h1{
+    font-size: 80px;
+    padding-bottom: 60px;
+    padding-top: 0px;
+    text-decoration:darkred;
+    
+  }
+
+
+
+p{
+  font-size: 40px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.bottom{
+    background-color: black;
+}
